@@ -35,3 +35,22 @@
 bundle install
 bundle exec rspec
 ````
+# 単体テストの実行方法
+
+## 使ったOS
+
+ubunts
+
+## テストを実行するためにインストールが必要なもの
+
+https://ja.osdn.net/projects/cunitforando/downloads/13476/CUnitForAndo.tar.gz/
+
+## コマンド例
+
+cd drink
+
+cd drinkTest
+
+cd Test
+
+make run
