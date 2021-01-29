@@ -14,13 +14,14 @@ unsigned int drink(
 
     for(i=1; i<=n; i++){
 
-    sum++;
+        sum++;
 
-    if(i%3==0){
+        if(i%3==0){
 
-    n++;
+            n++;
 	
-    }}
+        }
+    }
     
     printf("%d\n", sum);
 
